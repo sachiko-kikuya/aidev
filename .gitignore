@@ -3,8 +3,9 @@
 *.neg
 *.pos
 aclImdb/
-easy_ham/
-hard_ham/
-spam/
+Lesson09_ML-Practice/easy_ham/
+Lesson09_ML-Practice/hard_ham/
+Lesson09_ML-Practice/spam/
 __pycache__/
 .ipynb_checkpoints/
+.venv/
