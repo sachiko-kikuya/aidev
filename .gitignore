@@ -8,3 +8,4 @@ Lesson09_ML-Practice/hard_ham/
 Lesson09_ML-Practice/spam/
 __pycache__/
 .ipynb_checkpoints/
+.venv/
