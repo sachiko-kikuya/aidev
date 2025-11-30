@@ -3,9 +3,8 @@
 *.neg
 *.pos
 aclImdb/
-Lesson09_ML-Practice/easy_ham/
-Lesson09_ML-Practice/hard_ham/
-Lesson09_ML-Practice/spam/
+cats_and_dogs_small/
+cats_and_dogs_dataset/
 __pycache__/
 .ipynb_checkpoints/
 .venv/
