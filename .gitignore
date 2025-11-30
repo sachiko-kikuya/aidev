@@ -4,7 +4,7 @@
 *.pos
 aclImdb/
 cats_and_dogs_small/
-cats_and_dogs_dataset/
+dogs_vs_cats_dataset/
 __pycache__/
 .ipynb_checkpoints/
 .venv/
